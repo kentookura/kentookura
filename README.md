@@ -12,7 +12,7 @@
 
 * [`purescript-deku-katex`](https://github.com/kentookura/purescript-deku-katex)
 
-  Bindings to $KaTeX$ for use with the Deku frontend framework.
+  Bindings to $\KaTeX$ for use with the Deku frontend framework.
 
 * [`purescript-cofree-zipper`](https://github.com/kentookura/purescript-cofree-zipper)
 
