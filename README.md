@@ -4,7 +4,7 @@
 
 * [`purescript-arboretum`](https://github.com/kentookura/purescript-arboretum)
 
-  A platform for mathematical hypertext with a focus on 
+  A platform for mathematical hypertext
 
 * [`purescript-markdown`](https://github.com/kentookura/purescript-markdown)
 
